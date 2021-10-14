@@ -1,0 +1,44 @@
+[
+	{
+		"id": 1,
+        "title": "Potop",
+		"year": 1989,
+		"type": "film",
+		"views": 0
+	},
+	{
+		"id": 2,
+        "title": "Black Hawk Down",
+		"year": 2004,
+		"type": "film",
+		"views": 0
+	},
+	{
+		"id": 3,
+        "title": "Pulp Fiction",
+		"year": 1994,
+		"type": "film",
+		"views": 0
+	},
+	{
+		"id": 4,
+        "title": "Family Gay",
+		"year": 2004,
+		"type": "serial",
+		"views": 0
+	},
+	{
+		"id": 5,
+        "title": "American Dad",
+		"year": 2014,
+		"type": "serial",
+		"views": 8
+	},
+	{
+		"id": 6,
+        "title": "The Simpsons3",
+		"year": 1994,
+		"type": "serial",
+		"views": 88
+	}
+]
